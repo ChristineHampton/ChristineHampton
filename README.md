@@ -1,8 +1,8 @@
-### Hi, I'm Christine!👋 
+### Hi, I'm Christine!👋
 
 🎓Second year Computer Science student based in Newcastle <br>
-✍🏻 Sharing my journey to become a Front End Developer + UI/UX Designer <br>
-🏆Completed #100DaysOfCode challenge on Twitter <br>
+🧠 Sharing my journey to become a Front End Developer + UI/UX Designer <br>
+🚀 Completed #100DaysOfCode challenge on Twitter <br>
 ✉️ Contact me: champt2001@protonmail.com 
 
 ### 🌐 let's connect!
