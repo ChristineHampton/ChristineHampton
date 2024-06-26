@@ -1,3 +1,9 @@
+
+
+![1704206430381](https://github.com/ChristineHampton/ChristineHampton/assets/86518407/2a2f913b-4620-45a4-9576-246684e2ee2f)
+
+
+
 ### Hi, I'm Christine!👋
 
 🎓Second year Computer Science student based in Newcastle (UK) <br>
